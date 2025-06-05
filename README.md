@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="400" src="https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif"  />
+</div>
+
+###
+
 # 💫 About Me:
 👋 Hi, I'm a backend developer with 4 years of experience in Python.<br>🔧 I build scalable APIs, automate processes, and enjoy clean, maintainable code.<br>🚀 I'm into FastAPI, PostgreSQL, and containerized development with Docker.<br>💡 Always learning — currently exploring Redis and system design.
 
