@@ -4,8 +4,10 @@
 
 ###
 
-# 💫 About Me:
-👋 Hi, I’m a backend developer with 5 years of experience in Python.<br>🔧 I build scalable APIs, automate processes, and write clean, maintainable code.<br>🚀 I work with FastAPI, PostgreSQL, and enjoy containerized development with Docker.<br>💡 Always learning — currently exploring Redis and system design, and have recently started learning Go.
+# 👋 Hi, I’m a backend developer with 5 years of experience in Python.<br>
+🔧 I build scalable APIs, automate processes, and write clean, maintainable code.<br>
+🚀 I work with FastAPI, PostgreSQL, and enjoy containerized development with Docker.<br>
+💡 Always learning — currently exploring Redis and system design, and have recently started learning Go and Java.
 
 
 ## 🌐 Socials:
